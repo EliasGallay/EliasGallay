@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elias Gallay</h1>
 <h3 align="center">✨Web Developer✨</h3>
 <p align="center">
-<a href="https://github.com/fedemoles"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+github+page;I'm+Elias+Gallay;I'm+Web+Developer"></a>
+<a href="https://github.com/EliasGallay"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+github+page;I'm+Elias+Gallay;I'm+Web+Developer"></a>
 </p>
 
 <p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="fedemoles" width="30%"/></p>
@@ -40,9 +40,6 @@
       alt="javascript" width="40" height="40" /> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> <a href="https://www.canva.com" target="_blank"
     rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"
       width="40" height="40" /></a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
