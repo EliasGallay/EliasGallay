@@ -111,7 +111,7 @@
   
 <a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
-<a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="https://www.svgrepo.com/show/445786/github.svg" height="30" width="40" /></a>
+<a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="https://www.svgrepo.com/show/448225/github.svg" height="30" width="40" /></a>
 <a href="https://wa.me/3417204225" target="blank"> <img align="center" alt="WhatsApp" src="https://www.svgrepo.com/show/354560/whatsapp.svg" height="30" width="40" /></a>
 </p>
 <br>
