@@ -82,7 +82,7 @@
 
 <br><br><br><br><br><br><br><br>
 
-![Elias Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliasGallay&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Elias Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliasGallay&custom_title=Elias's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
@@ -112,6 +112,7 @@
 <a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="https://github.com/EliasGallay" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://www.svgrepo.com/svg/358411/whatsapp-alt" target="blank"> <img align="center" alt="https://github.com/EliasGallay" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 
