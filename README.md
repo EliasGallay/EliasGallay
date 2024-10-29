@@ -9,11 +9,10 @@
 
 <br>
 
-- 🌱 I’m Web Developer (Javascript, React Js), and I currently studying other frameworks and programming languages.
-
+- 🌱 I am a Web Developer who is constantly seeking training in various programming languages and frameworks to expand my skill set and stay updated with the latest technologies.
 - 📫 How to reach me **eliasmgallay@gmail.com**.
 
-- 😎 Fun fact :- 💻Code⌨, 🏘Real Estate🏙, 💼Accounting👔, ✈Travel🧳, 🍝Food🥘, 🖥Videogames🎮, 📽Movies🎞 and 🎵Music🎶 are the reasons to live.
+- 😎 Hobbies: 💻Code⌨, ✈Travel🧳, 🍝Food🥘, 🖥Videogames🎮, 🎸Guitar, 📽Movies🎞 and 🎵Music🎶 are the reasons to live.
 
 <br>
 
