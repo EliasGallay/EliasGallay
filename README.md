@@ -82,7 +82,7 @@
 
 <br><br><br><br><br><br><br><br>
 
-![Elias Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliasGallay&custom_title=Elias's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![snake animation](https://github.com/<EliasGallay>/<EliasGallay>/blob/output/github-contribution-grid-snake2.svg)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
