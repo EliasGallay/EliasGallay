@@ -106,7 +106,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio92&layout=compact&theme=algolia" alt="iscpatricio92" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&layout=compact&theme=algolia" alt="EliasGallay" />
  </a>
 </p>
 
@@ -114,7 +114,7 @@
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
+    alt="EliasGallay" />
 </p>
 
 
@@ -123,11 +123,9 @@
 ## 😎 Connect with me
 <p align="left">
   
-<a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iscpatricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="mailTo:isc.patricio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="Elias" height="30" width="40" /></a>
+<a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="https://github.com/EliasGallay" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 
