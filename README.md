@@ -5,7 +5,7 @@
 <a href="https://github.com/EliasGallay"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+github+page;I'm+Elias+Gallay;I'm+Web+Developer"></a>
 </p>
 
-<p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="fedemoles" width="30%"/></p>
+<p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="EliasGallay" width="30%"/></p>
 
 <br>
 
@@ -15,16 +15,6 @@
 - 😎 Hobbies: 💻Code⌨, ✈Travel🧳, 🍝Food🥘, 🖥Videogames🎮, 🎸Guitar, 📽Movies🎞 and 🎵Music🎶 are the reasons to live.
 
 <br>
-
-<h3 align="left">Connect with me:-</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/elias-gallay-077a6925a" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Elias Gallay" height="30" width="40" /></a>
-</p>
-
-
-
 
 
 
@@ -56,8 +46,6 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
@@ -67,8 +55,6 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
@@ -89,14 +75,14 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscpatricio92&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="iscpatricio92" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EliasGallay&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="EliasGallay Stats" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EliasGallay&show_icons=true&locale=en&theme=chartreuse-dark" alt="Github Stats" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-![Elias Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Elias Graph](https://github-readme-activity-graph.vercel.app/graph?username=EliasGallay&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
@@ -113,7 +99,7 @@
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/resources/img/github-contribution-grid-snake.svg"
     alt="EliasGallay" />
 </p>
 
@@ -124,7 +110,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="Elias" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="https://github.com/EliasGallay" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
