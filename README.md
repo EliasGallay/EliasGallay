@@ -93,7 +93,7 @@
 
 
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <a href="https://github.com/ryo-ma/github-profile-trophy" Target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&layout=compact&theme=algolia" alt="EliasGallay" />
  </a>
 </p>
@@ -108,10 +108,10 @@
 ## 😎 Connect with me
 <p align="left">
   
-<a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28051074/elias-gallay" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
-<a href="https://github.com/EliasGallay" target="blank"> <img align="center" alt="github" src="https://www.svgrepo.com/show/217753/github.svg" height="30" width="40" /></a>
-<a href="https://wa.me/3417204225" target="blank"> <img align="center" alt="WhatsApp" src="https://www.svgrepo.com/show/354560/whatsapp.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elias-gallay-077a6925a/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/28051074/elias-gallay" target="_blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
+<a href="https://github.com/EliasGallay" target="_blank"> <img align="center" alt="github" src="https://www.svgrepo.com/show/217753/github.svg" height="30" width="40" /></a>
+<a href="https://wa.me/3417204225" target="_blank"> <img align="center" alt="WhatsApp" src="https://www.svgrepo.com/show/354560/whatsapp.svg" height="30" width="40" /></a>
 </p>
 <br>
 
