@@ -98,9 +98,6 @@
 
 
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/resources/img/github-contribution-grid-snake.svg"
-    alt="EliasGallay" />
 </p>
 
 
