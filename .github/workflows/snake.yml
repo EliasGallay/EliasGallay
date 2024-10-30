@@ -24,6 +24,21 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
 
+      # Configura Git y realiza push de los cambios
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Push cambios
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git remote set-url origin https://$TOKEN@github.com/EliasGallay/EliasGallay.git
+          git add .
+          git commit -m "Actualización automática desde el workflow"
+          git push origin main
+
+  
 
