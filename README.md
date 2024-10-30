@@ -5,7 +5,7 @@
 <a href="https://github.com/EliasGallay"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+github+page;I'm+Elias+Gallay;I'm+Web+Developer"></a>
 </p>
 
-<p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="EliasGallay" width="30%"/></p>
+<p><img align="right" src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/refs/heads/main/animation_500_kxa883sd.gif" alt="EliasGallay" width="30%"/></p>
 
 <br>
 
