@@ -82,6 +82,8 @@
 
 <br><br><br><br><br><br><br><br>
 
+## 🐍 Watch Your GitHub Come to Life!
+
 ![snake gif](https://github.com/EliasGallay/EliasGallay/blob/output/github-snake-dark.svg)
 <br><br>
 <p align="center">
