@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I am a Web Developer who is constantly seeking training in various programming languages and frameworks to expand my skill set and stay updated with the latest technologies.
+- 🌱 I am a Web Developer constantly seeking training in various programming languages and frameworks to expand my skill set and stay updated with the latest technologies.
 - 📫 How to reach me **eliasmgallay@gmail.com**.
 
 - 😎 Hobbies: 💻Code⌨, ✈Travel🧳, 🍝Food🥘, 🖥Videogames🎮, 🎸Guitar, 📽Movies🎞 and 🎵Music🎶 are the reasons to live.
