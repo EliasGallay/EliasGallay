@@ -30,7 +30,7 @@
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img  alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img  alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img  alt="Django" src ="https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white"/>
+  <img  alt="Django" src ="https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=orange"/>
   <img  alt="styledComponent" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   
  <br><br>
