@@ -58,7 +58,9 @@
     &emsp; 
    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
-    
+    &emsp; 
+   <a href="#"><img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-0052CC?style=for-the-badge&logo=Lighthouse&logoColor=white"></a>
+    &emsp;
 </p>
 
 
