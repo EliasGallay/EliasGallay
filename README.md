@@ -56,7 +56,21 @@
    <a href="#"><img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-0052CC?style=for-the-badge&logo=Lighthouse&logoColor=white"></a>
   &emsp;
 </p>
+<br>
 
+<h2>Currently studying a diploma in Web Development.</h2>
+
+<br>
+<h3>Current Courses :-</h3>    
+<p><img align="center"
+    src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png"
+    alt="EliasGallay" 
+    bg_color=#808080/></p>
+    
+<p><img align="center"
+    src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png"
+    alt="EliasGallay" 
+    bg_color=#808080/></p>
 
 <br><br>
 
@@ -101,7 +115,6 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/elias-gallay-077a6925a/"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="EliasGallay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/28051074/elias-gallay"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="StackOverflow" height="30" width="40" /></a>
 <a href="https://github.com/EliasGallay"> <img align="center" alt="github" src="https://www.svgrepo.com/show/217753/github.svg" height="30" width="40" /></a>
 <a href="https://wa.me/3417204225"> <img align="center" alt="WhatsApp" src="https://www.svgrepo.com/show/354560/whatsapp.svg" height="30" width="40" /></a>
 </p>
