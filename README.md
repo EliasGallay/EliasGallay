@@ -17,7 +17,7 @@
 
 <br>
 
-- 🗺️ My personal Roadmap: https://drive.google.com/drive/folders/1c4BsOFX1hfSVCISK19hYgzg5xOzm9q8X
+- 🗺️ My personal Roadmap: https://drive.google.com/file/d/1wvChOBq3lojbAzyhdVr9JxqXtPvVofJj/view?usp=drive_link
 
 ## 💻 Technologies 
 
