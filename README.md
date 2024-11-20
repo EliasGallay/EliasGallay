@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="EliasGallay/EliasGallay/wave.gif" width="30px">, I'm Elias Gallay</h1>
+<h1 align="center">Hi <img src="https://github.com/EliasGallay/EliasGallay/blob/main/wave.gif" width="30px">, I'm Elias Gallay</h1>
 <h3 align="center">✨Web Developer✨</h3>
 <p align="center">
 <a href="https://github.com/EliasGallay"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+Welcome+to+my+github+page;I'm+Elias+Gallay;I'm+Web+Developer"></a>
@@ -63,12 +63,12 @@
 <br>
 <h3>Current Courses :-</h3>    
 <p><img align="center"
-    src="EliasGallay/EliasGallay/testing.png"
+    src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png"
     alt="EliasGallay" 
     bg_color=#808080/></p>
     
 <p><img align="center"
-    src="EliasGallay/EliasGallay/Desarrollo-Web.png"
+    src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png"
     alt="EliasGallay" 
     bg_color=#808080/></p>
 
