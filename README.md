@@ -84,6 +84,11 @@
     alt="EliasGallay" 
     bg_color=#808080/></p>
 
+<p><img align ="center" 
+     src ="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png"
+     alt= "EliasGallayReact"
+     bg_color=#808080/></p>
+     
 <br><br>
 
 ## 🚥 Activity
