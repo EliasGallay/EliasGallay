@@ -79,18 +79,18 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png" alt="EliasGallay" width="300"/>
+        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png" alt="EliasGallay" width="400"/>
       </td>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png" alt="EliasGallay" width="300"/>
+        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png" alt="EliasGallay" width="400"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png" alt="EliasGallayReact" width="300"/>
+        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png" alt="EliasGallayReact" width="400"/>
       </td>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/6870217f395778cf5f777e51.png" alt="EliasGallayNextJs" width="300"/>
+        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/6870217f395778cf5f777e51.png" alt="EliasGallayNextJs" width="400"/>
       </td>
     </tr>
   </table>
