@@ -74,22 +74,25 @@
 
 <br>
 <h3>Current Courses :-</h3>    
-<p><img align="center"
-    src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png"
-    alt="EliasGallay" 
-    bg_color=#808080/></p>
-    
-<p><img align="center"
-    src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png"
-    alt="EliasGallay" 
-    bg_color=#808080/></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png" alt="EliasGallay" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png" alt="EliasGallay" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png" alt="EliasGallayReact" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/EliasGallay/EliasGallay/blob/main/6870217f395778cf5f777e51.png" alt="EliasGallayNextJs" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<p><img align ="center" 
-     src ="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png"
-     alt= "EliasGallayReact"
-     bg_color=#808080/></p>
-     
-<br><br>
 
 ## 🚥 Activity
 
