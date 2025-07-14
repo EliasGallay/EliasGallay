@@ -112,9 +112,8 @@
 
 <br><br><br><br><br><br><br><br>
 
-<div align="center">
 ![snake gif](https://github.com/EliasGallay/EliasGallay/blob/output/github-snake-dark.svg)
-</div>
+
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
