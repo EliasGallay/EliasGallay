@@ -16,9 +16,6 @@
 - 😎 Hobbies: 💻Code⌨, ✈Travel🧳, 🍝Food🥘, 🖥Videogames🎮, 🎸Guitar, 📽Movies🎞 and 🎵Music🎶 are the reasons to live.
 
 <br>
-
-- 🗺️ My personal Roadmap: https://drive.google.com/file/d/1wvChOBq3lojbAzyhdVr9JxqXtPvVofJj/view?usp=drive_link
-
 ## 💻 Technologies 
 
 <div>
@@ -67,11 +64,6 @@
   <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"></a>
   &emsp;
 </p>
-
-<br>
-
-<h2>Currently studying a diploma in Web Development.</h2>
-
 <br>
 <h3>Current Courses :-</h3>    
 <div align="center">
