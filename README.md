@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi<img src="https://github.com/EliasGallay/EliasGallay/blob/main/wave.gif" width="30px">, I'm Elias Gallay</h1>
 <h3 align="center">✨Web Developer✨</h3>
 <p align="center">
@@ -71,18 +70,18 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/testing.png" alt="EliasGallay" width="400"/>
+        <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/testing.png" alt="EliasGallay" width="400"/>
       </td>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/Desarrollo-Web.png" alt="EliasGallay" width="400"/>
+        <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/Desarrollo-Web.png" alt="EliasGallay" width="400"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/684c9ff0364c08fc90faac7b.png" alt="EliasGallayReact" width="400"/>
+        <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/684c9ff0364c08fc90faac7b.png" alt="EliasGallayReact" width="400"/>
       </td>
       <td align="center">
-        <img src="https://github.com/EliasGallay/EliasGallay/blob/main/6870217f395778cf5f777e51.png" alt="EliasGallayNextJs" width="400"/>
+        <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/6870217f395778cf5f777e51.png" alt="EliasGallayNextJs" width="400"/>
       </td>
     </tr>
   </table>
@@ -98,30 +97,17 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EliasGallay&amp;show_icons=true&amp;locale=en&amp;theme=chartreuse-dark" alt="Github Stats" width="410"/>
 </p>
 
+<br><br><br><br><br><br><br><br>
+
+![snake gif](https://raw.githubusercontent.com/EliasGallay/EliasGallay/output/github-snake-dark.svg)
+
+<br>
+
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&amp;layout=compact&amp;theme=algolia" alt="EliasGallay" />
  </a>
 </p>
-
-
-<br><br><br><br><br><br><br><br>
-
-![snake gif](https://github.com/EliasGallay/EliasGallay/blob/output/github-snake-dark.svg)
-
-<br>
-
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&layout=compact&theme=algolia" alt="EliasGallay" />
- </a>
-</p>
-
-
-
-</p>
-
 
 <br>
 
@@ -135,7 +121,3 @@
 <br>
 
 <br>
-
-
-
-
