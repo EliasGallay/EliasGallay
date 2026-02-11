@@ -71,24 +71,29 @@
 
 ---
 
-<!--- stats & Trophy (start) -->
-<p align="center">
+<!--- stats (start) -->
+<div align="center">
 
-<table align="left">
+<table>
 <tr border="none">
-<td width="60%" align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elias streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
+<td width="50%" align="center">
+
+<img title="🔥 Streak Stats" 
+     src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
+
 </td>
 
-<td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+
 </td>
 </tr>
 </table>
 
+</div>
+<!--- stats (end) -->
 
-</p>
-<!--- stats & Trophy (end) -->
 
 
 <p align="center">
