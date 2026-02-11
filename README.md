@@ -10,9 +10,9 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="width: 55%;">
 
 ## 👨‍💻 About Me
 
@@ -20,15 +20,15 @@
 - 💼 Focused on Fullstack Development  
 - 📫 Contact: **eliasmgallay@gmail.com**
 
-</td>
+</div>
 
-<td width="45%" align="center">
+<div style="width: 40%;" align="center">
 
 <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/animation_500_kxa883sd.gif" width="320"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -63,14 +63,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -82,19 +79,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&layout=compact&langs_count=10" />
-</td>
-</tr>
-</table>
-
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&layout=compact&langs_count=10" />
 </div>
 
 ---
