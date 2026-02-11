@@ -68,7 +68,6 @@
   <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/output/github-snake-dark.svg" />
 </p>
 
-
 ---
 
 ## 🤝 Connect with Me
