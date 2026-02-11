@@ -53,7 +53,8 @@
 ## 🚥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliasGallay&show_icons=true&theme=chartreuse-dark&cache_seconds=86400" />
+ <img  src =" https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EliasGallay&show_icons=true&theme=chartreuse-dark&cache_seconds=86400" />
+
 </p>
 
 <p align="center">
