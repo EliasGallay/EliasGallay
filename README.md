@@ -8,17 +8,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;Frontend+%2B+Backend+Developer;React+%7C+TypeScript+%7C+Node.js" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/animation_500_kxa883sd.gif" width="300" />
-</p>
-
 ---
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ## 👨‍💻 About Me
 
 - 🌱 Web Developer continuously improving in modern technologies  
 - 💼 Focused on Fullstack Development  
 - 📫 Contact: **eliasmgallay@gmail.com**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/animation_500_kxa883sd.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,7 +52,6 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -65,36 +74,30 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/pgAdmin-2F89FC?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-<!--- stats (start) -->
+## 📊 GitHub Stats
+
 <div align="center">
 
 <table>
-<tr border="none">
+<tr>
 <td width="50%" align="center">
-
-<img title="🔥 Streak Stats" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliasGallay&theme=dark&hide_border=false" />
 </td>
 
 <td width="50%" align="center">
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
-
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EliasGallay&theme=dark&layout=compact&langs_count=10" />
 </td>
 </tr>
 </table>
 
 </div>
-<!--- stats (end) -->
 
-
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/output/github-snake-dark.svg" />
