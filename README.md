@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🌱 Web Developer continuously improving in modern technologies  
-- 💼 Focused on Frontend & Fullstack Development  
+- 💼 Focused on Fullstack Development  
 - 📫 Contact: **eliasmgallay@gmail.com**
 
 ---
