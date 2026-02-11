@@ -92,15 +92,18 @@
 
 ## 🚥 Activity
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EliasGallay&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="EliasGallay Stats" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EliasGallay&amp;langs_count=8&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=chartreuse-dark" alt="EliasGallay Stats" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EliasGallay&show_icons=true&locale=en&theme=chartreuse-dark" alt="Github Stats" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EliasGallay&amp;show_icons=true&amp;locale=en&amp;theme=chartreuse-dark" alt="Github Stats" width="410"/>
 </p>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&amp;layout=compact&amp;theme=algolia" alt="EliasGallay" />
+ </a>
+</p>
+
 
 <br><br><br><br><br><br><br><br>
 
