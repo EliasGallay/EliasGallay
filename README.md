@@ -10,7 +10,11 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
+
+<div style="float: right; width: 40%; text-align: center;">
+  <img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/animation_500_kxa883sd.gif" width="300"/>
+</div>
 
 <div style="width: 55%;">
 
@@ -22,11 +26,7 @@
 
 </div>
 
-<div style="width: 40%;" align="center">
-
-<img src="https://raw.githubusercontent.com/EliasGallay/EliasGallay/main/animation_500_kxa883sd.gif" width="320"/>
-
-</div>
+<div style="clear: both;"></div>
 
 </div>
 
