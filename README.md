@@ -107,16 +107,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/EliasGallay/EliasGallay/output/github-snake-dark.svg)
 
-<br>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=EliasGallay&layout=compact&theme=algolia" alt="EliasGallay" />
- </a>
-</p>
-
-<br>
-
 ## 😎 Connect with me
 <p align="left">
   
